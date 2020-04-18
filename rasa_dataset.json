@@ -1,0 +1,141 @@
+{
+  "rasa_nlu_data": {
+    "regex_features": [
+      {
+        "name": "zipcode",
+        "pattern": "[0-9]{5}"
+      },
+      {
+        "name": "greet",
+        "pattern": "hey[^\\s]*"
+      }
+    ],
+    "entity_synonyms": [
+      {
+        "value": "chinese",
+        "synonyms": ["Chinese", "Chines", "chines"]
+      },
+      {
+        "value": "vegetarian",
+        "synonyms": ["veggie", "vegg"]
+      }
+    ],
+    "common_examples": [
+      {
+        "text": "I don't get the new notifications right away despite my settings to show all.",
+        "intent": "report",
+        "entities": []
+      },
+      {
+        "text": "The app is fine, I just can't stand the annoying voice of the constant ads.",
+        "intent": "complain",
+        "entities": []
+      },
+      {
+        "text": "But when I installed it again today, the latest pictures were just until the month of November 2019.",
+        "intent": "report",
+        "entities": []
+      },
+      {
+        "text": "But since two months now the app isn't responding very well.",
+        "intent": "report",
+        "entities": []
+      },
+      {
+        "text": "One thing that I would suggest is that we can delete or block songs on a playlist that is made for us.",
+        "intent": "suggest",
+        "entities": []
+      },
+      {
+        "text": "The updates are good but some features are only for apple.",
+        "intent": "complain",
+        "entities": []
+      },
+      {
+        "text": "My notifications are coming in all wonky, like out of order and repeated several times.",
+        "intent": "report",
+        "entities": []
+      },
+      {
+        "text": "A few things i don't like about this app is that messages delete themself after a few hours.",
+        "intent": "report",
+        "entities": []
+      },
+      {
+        "text": "My saved videos don't play in order anymore!",
+        "intent": "report",
+        "entities": []
+      },
+      {
+        "text": "If you could somehow change that I honestly think the app would be close to perfect because this app is pretty good!",
+        "intent": "report",
+        "entities": []
+      },
+      {
+        "text": "The app doesn't send me notifications when I get messages and there's lot of lag.",
+        "intent": "report",
+        "entities": []
+      },
+      {
+        "text": "Wish it would let me choose to update or not because I enjoy the app but with these updates the app is close to unusable to me.",
+        "intent": "report",
+        "entities": []
+      },
+      {
+        "text": "I love to mess around with streaks so can you please try and do an update where on android you can zoom in on a gify more because it makes it extremely hard to come up with creative ideas for streaks.",
+        "intent": "suggest",
+        "entities": []
+      },
+      {
+        "text": "I can no longer peek at messages.",
+        "intent": "report",
+        "entities": []
+      },
+      {
+        "text": "I am unable to do anything.",
+        "intent": "complain",
+        "entities": []
+      },
+      {
+        "text": "As soon as I tap on the box to type my keyboard opens and immediately closes.",
+        "intent": "report",
+        "entities": []
+      },
+      {
+        "text": "Profiles have issues loading completely from time to time.",
+        "intent": "report",
+        "entities": []
+      },
+      {
+        "text": "Every time I'm watching a video itll back out and refresh the home page.",
+        "intent": "report",
+        "entities": []
+      },
+      {
+        "text": "Hate that there isnt an option to play any albums in order now either!",
+        "intent": "suggest",
+        "entities": []
+      },
+      {
+        "text": "The play screen minimises every time I leave the app.",
+        "intent": "report",
+        "entities": []
+      },
+      {
+        "text": "You NEVER refresh my feed without my consent.",
+        "intent": "complain",
+        "entities": []
+      },
+      {
+        "text": "If I continue to scroll I still hear all the sounds the next video would play.",
+        "intent": "report",
+        "entities": []
+      },
+      {
+        "text": "Everytime I do the watch and for 30 mins of ad free music, I get through 2 songs and there is an ad.",
+        "intent": "complain",
+        "entities": []
+      }
+    ]
+  }
+}

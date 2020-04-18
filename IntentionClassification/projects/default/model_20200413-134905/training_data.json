@@ -1,0 +1,459 @@
+{
+  "rasa_nlu_data": {
+    "common_examples": [
+      {
+        "intent": "functionality_request",
+        "text": "Remove Multiple duplicate"
+      },
+      {
+        "intent": "functionality_request",
+        "text": "It would be deeply appreciated, because I've been stressing about that a bit, because a lot of people try to message me and I cant message back"
+      },
+      {
+        "intent": "functionality_request",
+        "text": "It's bad enough to have updates just about every month, but the pop ups on my home and lock screens must stop!!"
+      },
+      {
+        "intent": "functionality_request",
+        "text": "I also wish it saved your story for you to see because I cant look back at the buddy quiz I"
+      },
+      {
+        "intent": "functionality_request",
+        "text": "I wish there was a separate app to discover communities of interest, join them and help other people."
+      },
+      {
+        "intent": "functionality_request",
+        "text": "the option to edit video bio and comments should be available as sometimes autocorrect takes over and you have to delete your comment and re-type it"
+      },
+      {
+        "intent": "functionality_request",
+        "text": "You should give some notification, details at time allowance to the account owner about it so they can tell to their close friends and relatives about the sudden deactivation of the account"
+      },
+      {
+        "intent": "functionality_request",
+        "text": "There is no way to format text (bold, underline, etc.)"
+      },
+      {
+        "intent": "functionality_request",
+        "text": "Why can't I swipe up and down to minimise and maximize the play screen?"
+      },
+      {
+        "intent": "functionality_request",
+        "text": "I should be able to delete multiple friends at once.."
+      },
+      {
+        "intent": "functionality_request",
+        "text": "You guys should have a dark mode And my feed should be in chronological order"
+      },
+      {
+        "intent": "functionality_request",
+        "entities": [
+          {
+            "start": 105,
+            "end": 113,
+            "value": "facebook",
+            "entity": "application"
+          }
+        ],
+        "text": "Not to mention the sponsored ads and click bait is a bit overwhelming it's like you guys really just let facebook go"
+      },
+      {
+        "intent": "improvement_request",
+        "text": "If they added/removed features, it would be nice if there's a quick notice esp for major changes that disrupts habits."
+      },
+      {
+        "intent": "improvement_request",
+        "text": "The app is great for communicating with people that are on the Internet but is not as secure as it once was which is a complete shame"
+      },
+      {
+        "intent": "improvement_request",
+        "text": "One thing that could be improved is adding some relationship options like \"talking with someone\" for people who are talking seriously with someone but not at the point to officially call it a relationship."
+      },
+      {
+        "intent": "improvement_request",
+        "text": "Also, I don't see the point in having a separate tab for notifications then filling it up with things like \"Slartibartfast wrote on his timeline two days ago\"."
+      },
+      {
+        "intent": "improvement_request",
+        "text": "And when commenting a photo or video, please put an option to where to get the photo or video"
+      },
+      {
+        "intent": "improvement_request",
+        "text": "I find it stupid that to delete a conversation with someone you either have to be friends with them or block them."
+      },
+      {
+        "intent": "improvement_request",
+        "text": "I wish there was a separate app to discover communities of interest, join them and help other people."
+      },
+      {
+        "intent": "improvement_request",
+        "text": "the option to edit video bio and comments should be available as sometimes autocorrect takes over and you have to delete your comment and re-type it"
+      },
+      {
+        "intent": "improvement_request",
+        "text": "You should give some notification, details at time allowance to the account owner about it so they can tell to their close friends and relatives about the sudden deactivation of the account"
+      },
+      {
+        "intent": "improvement_request",
+        "text": "Why in gods name would you think its a good idea to say \"Youre tapping too fast!"
+      },
+      {
+        "intent": "improvement_request",
+        "text": "I would really love it if you could zoom in on stickers more."
+      },
+      {
+        "intent": "app_crash",
+        "text": "I've been having to force stop the app almost every time I send a snap because they don't actually send."
+      },
+      {
+        "intent": "app_crash",
+        "text": "I use it to stay in touch with my friends and make plans, so when I open a snap from them and the app crashes before I can see what they sent, I'm not able to open what they sent me again"
+      },
+      {
+        "intent": "app_crash",
+        "text": "- But recent updates made bugs like app freezing ,crashing ,inaccurate following number and disappear of live button"
+      },
+      {
+        "intent": "security_request",
+        "text": "There should be no reason for you to require access to my text messages, other than data mining"
+      },
+      {
+        "intent": "problem_with_contents",
+        "text": "Whenever I open a picture to view it fully, it closes it automatically and wont open"
+      },
+      {
+        "intent": "problem_with_contents",
+        "text": "Everything else on the app is great, but it keeps telling me I have 3 unseen notifications and when I click it there are \"no notifications\"."
+      },
+      {
+        "intent": "problem_with_contents",
+        "text": "Seems like once a day for the past few days I will get a notification on my phone for a message, but then when I go to the app it says that I have opened the message, and it is now gone."
+      },
+      {
+        "intent": "problem_with_contents",
+        "text": "Profiles have issues loading completely from time to time."
+      },
+      {
+        "intent": "problem_with_contents",
+        "entities": [
+          {
+            "start": 48,
+            "end": 53,
+            "value": "story",
+            "entity": "feature"
+          }
+        ],
+        "text": "Now with a new update, I can't see who views my story outside of my friends when I change it to everyone can view"
+      },
+      {
+        "intent": "problem_with_contents",
+        "text": "All day each time I scroll down to read posts I get to a gray circle that never loads"
+      },
+      {
+        "intent": "problem_with_contents",
+        "text": "I constantly have problems getting pages to load."
+      },
+      {
+        "intent": "problem_with_contents",
+        "text": "You can't even read someone's answer on a post or when you tag them"
+      },
+      {
+        "intent": "problem_with_contents",
+        "text": "First my videos won't upload."
+      },
+      {
+        "intent": "problem_with_contents",
+        "text": "But messages sometimes disappear and there's no times on them when sent"
+      },
+      {
+        "intent": "problem_with_contents",
+        "text": "After having problems for a while wit notifications I've already viewed showing up as new repeatedly, I updated app today, Now I have no notifications at all."
+      },
+      {
+        "intent": "problem_with_contents",
+        "text": "The evil notification CAME BACK, AND I still couldn't send anything until I restarted my phone."
+      },
+      {
+        "intent": "problem_with_contents",
+        "text": "Please fix it, along with showing me 2 day old posts at the top and nothing new for miles."
+      },
+      {
+        "intent": "problem_with_contents",
+        "text": "It seems like every week or so there's another widespread glitch, like the one where comments or notifications wouldn't show up"
+      },
+      {
+        "intent": "problem_with_contents",
+        "text": "but for some reason, out of nowhere, i just stop sending/receiving messages"
+      },
+      {
+        "intent": "problem_with_contents",
+        "text": "I find it stupid that to delete a conversation with someone you either have to be friends with them or block them."
+      },
+      {
+        "intent": "problem_with_contents",
+        "text": "All of a sudden, I am not receiving notifications in the app"
+      },
+      {
+        "intent": "problem_with_contents",
+        "text": "The notification system is completely broken"
+      },
+      {
+        "intent": "problem_with_contents",
+        "text": "I only see posts from some groups and pages and then they stay on my feed for several days without updating."
+      },
+      {
+        "intent": "problem_with_contents",
+        "text": "The notifications don't seem to go away even uninstalling and reinstalling the app or clearing the caches."
+      },
+      {
+        "intent": "problem_with_contents",
+        "text": "I can't view my memories, I can't view comments on posts, even my own, the time line updates, it doesn't matter what I'm looking at or doing it just goes away"
+      },
+      {
+        "intent": "problem_with_contents",
+        "text": "Also, the cover art thumbnails are way too small"
+      },
+      {
+        "intent": "problem_with_functionality",
+        "text": "I've had it for 4 years and all of a sudden it wants to keep closing"
+      },
+      {
+        "intent": "problem_with_functionality",
+        "entities": [
+          {
+            "start": 26,
+            "end": 35,
+            "value": "Nokia 4.2",
+            "entity": "model"
+          },
+          {
+            "start": 63,
+            "end": 71,
+            "value": "snapchat",
+            "entity": "application"
+          }
+        ],
+        "text": "I just bought a new phone Nokia 4.2 downloaded and logged into snapchat and tried to record a video as usual, wouldn't work."
+      },
+      {
+        "intent": "problem_with_functionality",
+        "text": "The camera also has a second delay so when you think it has taken a picture you move and then the image you get is blurred"
+      },
+      {
+        "intent": "problem_with_functionality",
+        "text": "sometimes (fairly often) the app starts to bug out and flash on and off (black and normal)"
+      },
+      {
+        "intent": "problem_with_functionality",
+        "text": "This app constantly temporarily blocks me even when I haven't been active in days"
+      },
+      {
+        "intent": "problem_with_functionality",
+        "text": "Lately there has been a delay in start no matter if it's downloaded version or non downloaded version I thought the music is spoiled"
+      },
+      {
+        "intent": "problem_with_functionality",
+        "entities": [
+          {
+            "start": 81,
+            "end": 89,
+            "value": "facebook",
+            "entity": "application"
+          }
+        ],
+        "text": "I've deleted the cache, cleared the data, I've even deleted and re installed the facebook app, I'm just not able to use the app"
+      },
+      {
+        "intent": "problem_with_functionality",
+        "text": "I use it to stay in touch with my friends and make plans, so when I open a snap from them and the app crashes before I can see what they sent, I'm not able to open what they sent me again"
+      },
+      {
+        "intent": "problem_with_functionality",
+        "text": "It won't give me another option to send the stupid 6 digit code it says its gonna send me by text message but never does"
+      },
+      {
+        "intent": "problem_with_functionality",
+        "text": "I'm entering literally everything properly and it just won't let me sign anymore"
+      },
+      {
+        "intent": "problem_with_functionality",
+        "text": "I'm entering literally everything properly and it just won't let me sign anymore"
+      },
+      {
+        "intent": "problem_with_functionality",
+        "text": "If it worked the way it should all the time it would be a 4, but the past week in particular have been having issues where group conversations, has said I've taken multiple screenshot of the chat, when"
+      },
+      {
+        "intent": "problem_with_functionality",
+        "entities": [
+          {
+            "start": 149,
+            "end": 157,
+            "value": "facebook",
+            "entity": "application"
+          }
+        ],
+        "text": "now my notifications are non-existent says I don't have any I know that I had at least 20 to 25 they have been wiped out they are now gone thank you facebook for nothing you always got to screw things up you can't leave well enough alone!!!!!!!!"
+      },
+      {
+        "intent": "problem_with_functionality",
+        "text": "My notifications never disappear."
+      },
+      {
+        "intent": "problem_with_functionality",
+        "text": "I can't comment on my feed's posts, it says the content is not available but I can do it if I visit their profile."
+      },
+      {
+        "intent": "problem_with_functionality",
+        "text": "Now, after deleting, I'm trying to sign back in to the app, and even that's not working."
+      },
+      {
+        "intent": "review_about_feature",
+        "entities": [
+          {
+            "start": 10,
+            "end": 18,
+            "value": "facebook",
+            "entity": "application"
+          }
+        ],
+        "text": "If its on facebook the fact check is not always correct either."
+      },
+      {
+        "intent": "review_about_feature",
+        "entities": [
+          {
+            "start": 15,
+            "end": 21,
+            "value": "tiktok",
+            "entity": "application"
+          }
+        ],
+        "text": "Im not sure if tiktok updated but recently there is this new thing, where i will like a video and it will say ur tapping too fast take a break, please take this"
+      },
+      {
+        "intent": "review_about_feature",
+        "text": "Thus making it virtually impossible to find anybody through the search engine without having mutual friends or knowing their fb username"
+      },
+      {
+        "intent": "review_about_feature",
+        "text": "The biggest one being that I don't get any kind of notification for when someone comments, likes, or shares any of my posts."
+      },
+      {
+        "intent": "review_about_feature",
+        "entities": [
+          {
+            "start": 27,
+            "end": 35,
+            "value": "snapchat",
+            "entity": "application"
+          }
+        ],
+        "text": "For the past few weeks, my snapchat wont load incoming messages."
+      },
+      {
+        "intent": "review_about_feature",
+        "text": "Why in gods name would you think its a good idea to say \"Youre tapping too fast!"
+      },
+      {
+        "intent": "review_about_update",
+        "entities": [
+          {
+            "start": 48,
+            "end": 53,
+            "value": "story",
+            "entity": "feature"
+          }
+        ],
+        "text": "Now with a new update, I can't see who views my story outside of my friends when I change it to everyone can view."
+      },
+      {
+        "intent": "review_about_update",
+        "entities": [
+          {
+            "start": 29,
+            "end": 36,
+            "value": "android",
+            "entity": "model"
+          },
+          {
+            "start": 93,
+            "end": 101,
+            "value": "facebook",
+            "entity": "application"
+          }
+        ],
+        "text": "Since a recent app update on android, I am not able to connect to the games function through facebook on my cell phone"
+      },
+      {
+        "intent": "review_about_update",
+        "text": "The latest update has completely ruined large group conversations"
+      },
+      {
+        "intent": "review_about_update",
+        "text": "But recent updates made bugs like app freezing ,crashing ,inaccurate following number and disappear of live button"
+      },
+      {
+        "intent": "review_about_update",
+        "text": "After the newest update, if you hit your phone's home button, and instantly go back to the app (WITHOUT closing out), it acts like you closed out of it and takes you back to the freaking home page."
+      },
+      {
+        "intent": "review_about_model",
+        "entities": [
+          {
+            "start": 26,
+            "end": 35,
+            "value": "Nokia 4.2",
+            "entity": "model"
+          },
+          {
+            "start": 63,
+            "end": 71,
+            "value": "snapchat",
+            "entity": "application"
+          }
+        ],
+        "text": "I just bought a new phone Nokia 4.2 downloaded and logged into snapchat and tried to record a video as usual, wouldn't work."
+      },
+      {
+        "intent": "review_about_model",
+        "entities": [
+          {
+            "start": 13,
+            "end": 19,
+            "value": "iPhone",
+            "entity": "model"
+          }
+        ],
+        "text": "However, the iPhone app has more features and is better in general"
+      },
+      {
+        "intent": "review_about_gui",
+        "text": "And are stuck with it, but we know the interface is laughable right?"
+      },
+      {
+        "intent": "review_about_gui",
+        "text": "The interface is too cumbersome to use, really it takes me 2 minutes to find the button that I am looking for."
+      },
+      {
+        "intent": "review_about_gui",
+        "text": "There was nothing wrong with the layout of the app previously and this just looks visually unappealing"
+      },
+      {
+        "intent": "compliment",
+        "entities": [
+          {
+            "start": 0,
+            "end": 8,
+            "value": "snapchat",
+            "entity": "application"
+          }
+        ],
+        "text": "snapchat is a good app"
+      }
+    ],
+    "regex_features": [],
+    "lookup_tables": [],
+    "entity_synonyms": []
+  }
+}
